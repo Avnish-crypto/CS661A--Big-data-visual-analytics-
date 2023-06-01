@@ -1,6 +1,6 @@
 # CS661A-Big-Data-Visual-Analytics
 
-This repository contains the solutions and data for the four assignments completed during the spring 2023 semester for the CS661A-Big Data Visual Analytics course.
+This repository contains the solutions and data for the four assignments completed during the spring 2023 semester for the CS661A-Big Data Visual Analytics course .
 
 ## Assignments
 
