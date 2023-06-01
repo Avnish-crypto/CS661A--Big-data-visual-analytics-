@@ -6,19 +6,19 @@ This repository contains the solutions and data for the four assignments complet
 
 The repository comprises the following four assignments:
 
-1. *Robey_22111007_Assignment1*
+1. Assignment1*
    - This folder contains the solution and data for Assignment 1-VTK data loading, Cell data processing, and Visualization
    - More details about the assignment can be found within the folder.
 
-2. *Robey_22111007_Assignment2*
+2. Assignment2*
    - This folder contains the solution and data for Assignment 2-Isocontour Extraction and VTK Volume Visualization
    - More details about the assignment can be found within the folder.
 
-3. *Robey_22111007_Assignment3*
+3. Assignment3*
    - This folder contains the solution and data for Assignment 3-Visualizing and Interacting with Data using Plotly
    - More details about the assignment can be found within the folder.
 
-4. *Robey_22111007_Assignment4*
+4. Assignment4*
    - This folder contains the solution and data for Assignment 4-Sampling and Reconstruction
    - More details about the assignment can be found within the folder.
 
