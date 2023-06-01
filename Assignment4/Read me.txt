@@ -1,0 +1,34 @@
+#################################################################################################################
+Name- Avnish Tripathi
+Roll no.- 22111014
+
+################################################################################################################
+python version 3.9 
+base conda
+Requirnments -  
+vtk module
+numpy 
+scipy
+
+use command Pip install module_name {to resolve the missing dependencies}
+
+###############################################################################################################
+DESCRIPTION-
+
+The folder Tripathi_22111014_assignment4 contains the python file Tripathi_22111014_assignment4.py and Isabel_3D.vti file 
+
+
+Steps for running Tripathi_22111014_assignment4.py file 
+
+1)Open cmd in the submitted folder.
+2)To run Tripathi_22111014_assignment4.py type  - python tripathi_22111014_assignment4.py" in command prompt and hit enter
+3)It will ask you to enter the sampling percentage after that enter sampling percentage hit enter.
+4)Then, it will ask for the reconstruction method linear/nearest and hit enter.
+5)SNR Will be displayed after completion of processing.
+
+
+Please feel free to contact me in case of any issue.  {email- avnisht22@iitk.ac.in}
+
+ 
+
+
