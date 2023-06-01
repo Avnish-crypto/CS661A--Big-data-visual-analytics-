@@ -29,7 +29,7 @@ Each assignment folder includes the necessary files and data required to underst
 To use the solutions and data provided in this repository, follow these steps:
 
 1. Clone or download this repository to your local system.
-2. Navigate to the desired assignment folder (`Robey_22111007_AssignmentX`).
+2. Navigate to the desired assignment folder (`AssignmentX`).
 3. Read the assignment details and requirements provided within the folder.
 4. Access the solution files and any accompanying documentation or reports.
 5. Utilize the provided data and code to analyze, experiment, or further explore the assignment topic.
